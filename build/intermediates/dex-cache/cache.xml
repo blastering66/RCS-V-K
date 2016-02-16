@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/pre-dexed/debug/classes-c6fd27e284db41532afbe084be54b9eb7955e429.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/pre-dexed/debug/classes-01451570333a9dfa3903a4302b43adca41aec0a5.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/pre-dexed/debug/classes-534d5ec379c5b910d4190562c42404927f8fec39.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/pre-dexed/debug/classes-b65330c586184dfc13dd3047dcce22aeb45c94b1.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-a2405f3e12279626d570a53fb2c8e7778502def2.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/pre-dexed/debug/classes-f3a6800ee8d5ed984ecc380e1985063de8666fad.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-9fb34aaaf1809e8d541ba07a1c0c2876b6c3182b.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/pre-dexed/debug/classes-07d66e04bd010cbd12b930a298d64a9f232e06b4.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/pre-dexed/debug/classes-133fa980fabb6a5b8bf544d3dbe61988d35e502b.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/pre-dexed/debug/classes-148c74e3b8afa6c52283b47751a64a63f09f34d5.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/exploded-aar/ASTRID-KALBE/libraryAndroidQuickResponseCode/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c4fa4fdb6bc64c089c9eae84a2665b3ca9f1b5c3">
+        <dex dex="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/pre-dexed/debug/classes-4f87e23debe70d77cc1636945a426639e6d3382a.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/pre-dexed/debug/classes-8ebbac3869913ee5ec8cebd01dc6502bb1333cb0.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/.gradle/caches/modules-2/files-2.1/org.jbundle.util.osgi.wrapped/org.jbundle.util.osgi.wrapped.org.apache.http.client/4.1.2/98c86e42679fe7ac066f6c242e0d14f0bce0bb7c/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/pre-dexed/debug/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2-814876f468498dd4f365bd78dceaa9d3e46c26f7.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/pre-dexed/debug/classes-74acfd2ad7dd503ccc88975d3c9539487e0a6599.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
+        <dex dex="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/pre-dexed/debug/classes-cfe0814e408f4a3c953230391ce417abc129d34c.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/pre-dexed/debug/classes-12bf497b14dad2462237eed59df08f74fe895b92.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-d2a55993f6a74727e0b40050065e0d10294c4282.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/pre-dexed/debug/classes-01bae6a2c83d7710c127a9db5dc098f0ed21e9c0.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/libs/httpmime-4.1.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c78eaaea68d0f36f73b646f08cdb34f1a784239b">
+        <dex dex="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/pre-dexed/debug/httpmime-4.1.2-188bae1c20a80df2f997d1eb87573fabeb29c244.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/pre-dexed/debug/classes-d454dd7930d60d25a9c524ce5c1007f339a143fc.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/pre-dexed/debug/classes-3bf5b57fee72780d895e0e7b67ecf9f849cf77ba.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/pre-dexed/debug/classes-a6e3f68ad84aac3f919187988220447b836afbd2.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/exploded-aar/com.pkmmte.view/circularimageview/1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c341a7ad32bc2eef9dcfab239262b77ac60788cc">
+        <dex dex="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/pre-dexed/debug/classes-90b5968892ca56d297aeab68c0c9f71332c791e2.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/pre-dexed/debug/classes-a9912dad4c4de818040c7c6e898591dab180a077.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/pre-dexed/debug/classes-953d0edb5279a41b0798cd9776d70136b9b15b0e.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-715731ce6596485188671280c869b0bc4a0ac061.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/pre-dexed/debug/classes-0fb6d6d5c1119a486297d37456945daeb561679b.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/pre-dexed/debug/classes-92a571b7bbf1c916235d87bf6951533edf1b7f30.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/pre-dexed/debug/classes-776a04ffce6c25282ec24e075663152bb9c79b0d.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/pre-dexed/debug/classes-18df63f4dbc8eeba205d43e6c42e841f14acdb95.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/pre-dexed/debug/classes-ddc933e3b2549dda8f0a616102fd2d42e510ee3f.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/pre-dexed/debug/classes-4c314ff25d15fe8c46c205d70c7891b0b8a7118b.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/pre-dexed/debug/classes-f48279f0e5b271e20c5d285be0bc7f56565558db.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/pre-dexed/debug/classes-7ad7d486ad9818f720c51a43159d1a7824bbd683.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/libs/core.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="69ab751723c7f7c8a01fddb1d169a93160fadca7">
+        <dex dex="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/pre-dexed/debug/core-b475d7b13f76d312191baae31be27b2062125059.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/pre-dexed/debug/classes-22e6b8c954e9e76d63e71ff72dc2532679b2b582.jar" />
+    </item>
+    <item
+        jar="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="/Users/macbook/Desktop/Android Studio Repo Workspace/Verificare-Middle/ASTRID-KALBE/app/build/intermediates/pre-dexed/debug/classes-95450c3cc13ebbe5b44d7811fefe03ecae09e8ef.jar" />
+    </item>
+
+</items>
